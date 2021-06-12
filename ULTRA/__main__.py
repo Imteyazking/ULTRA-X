@@ -2,10 +2,10 @@ import os
 try:
   from LEGENDX import id, ID, devs, rd, wt
 except:
-  os.system("pip install LEGENDX==0.0.21")
+  os.system("pip install KINGFIGHTER==0.0.21")
   from LEGENDX import id, ID, devs
 finally:
-  print ("ULTRA X IS STARTING WITH TELETHON") 
+  print ("KING FIGHTER IS STARTING WITH TELETHON") 
 from ULTRAX import xbot
 from ULTRA import bot, CMD_HELP
 from sys import argv
@@ -48,7 +48,7 @@ async def add_bot(bot_token):
     bot.me = await bot.get_me() 
     bot.uid = telethon.utils.get_peer_id(bot.me)
 ONLINE_ALERT = os.environ.get("ONLINE_ALERT")
-os.system("pip install LEGENDX==0.0.21")
+os.system("pip install KINGFIGHTER==0.0.21")
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
 else:
@@ -82,7 +82,7 @@ for name in files:
 
 
 if  EXTRA_PLUGS == True:
-    os.system("git clone https://github.com/ULTRA-OP/ULTRA_PLUGS.git ./ULTRA/plugins/")
+    os.system("git clone https://github.com/Imteyazking/ULTRA-X/ULTRA_PLUGS.git ./ULTRA/plugins/")
     path = "ULTRA/plugins/*.py"
     files = glob.glob(path)
     for name in files:
@@ -124,8 +124,8 @@ async def install():
             print ("Failed")
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
-async def legend():
+print("KING is Up and Awake! ©️ KINGFIGHTER 2021")
+async def KING():
   pro = await xbot.get_me()
   legend = await bot.get_me()
   LEGENDX = f"""
@@ -137,10 +137,10 @@ async def legend():
 
 **Pɪɴɢ Pᴏɴɢ...**
 
-**➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
+**➥ Mᴀsᴛᴇʀ** `➪` **@{Kingfighter.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
-**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@FRIENDS_FOREVER_OFFICIAL_CHAT**
+**➥ Cʜᴀɴɴᴇʟ** `➪` **@King_fighter_Bot_support**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """
