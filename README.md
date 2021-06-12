@@ -1,21 +1,21 @@
 
-* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ υℓтяα χ </a>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">υℓтяα χ Sᴛᴀᴛᴜs <a/>
+* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ KING FIGHTER </a>
+* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">KING FIGHTER Sᴛᴀᴛᴜs <a/>
 * <b><a href="https://github.com/ULTRA-OP/ULTRA-X#d%E1%B4%87%E1%B4%98%CA%9F%E1%B4%8F%CA%8F-">Dᴇᴘʟᴏʏ</a>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legendx22/LEGEND-BOT?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/http://t.me/KIng_FiGhter1_Bot?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
 [![Python 3.8.6](https://img.shields.io/badge/Python-3.8.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-386/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+# KING FIGHTER
+This is a KING FIGHTER made for telegram. I made this Imteyaz with help of all other KINGs available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official King fighter вσт made by [ Team King](http://t.me/KIng_FiGhter1_Bot) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![KIng_FiGhter1_Bot ℓσgσ](https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg)]()
 
 -------------------------------------------------
 
@@ -47,8 +47,8 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
-<a href="https://telegram.me/UltraXChat"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://telegram.me/UltraX_Support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/King_fighter_Bot_support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/King_fighter_Bot_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tʜᴇ Nᴏʀᴍᴀʟ Wᴀʏ
 
