@@ -53,7 +53,7 @@ def LEGENDX22(**LEGENDX):
 	CMD_HELP.update({see: helper})
 
 
-LEGEND_ID = ["1100231654"]
+LEGEND_ID = ["11002567"]
 
 """ PPE initialization. """
 
@@ -138,7 +138,7 @@ if bool(ENV):
     # FedBan Premium Module
     F_BAN_LOGGER_GROUP = os.environ.get("F_BAN_LOGGER_GROUP", None)
 
-    #make by LEGEND X 
+    #make by KING FIGHTER 
     botnickname = os.environ.get("BOT_NICK_NAME", None)
 
 # Heroku Credentials for updater.
@@ -170,7 +170,7 @@ if bool(ENV):
     # Upstream Repo
     UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/LEGENDXOP/LEGEND-BOT.git")
+    "https://github.com/Imteyazking/ULTRA-X.git")
 
     # Last.fm Module
     BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
