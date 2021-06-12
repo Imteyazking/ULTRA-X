@@ -10,7 +10,7 @@ from ULTRA.utils import edit_or_reply as eor
 
 DELETE_TIMEOUT = 3
 thumb_image_path = "./Resources/UltraX.jpg"
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "ULTRA X"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "King_Fighter_Bot"
 
 
 @bot.on(admin_cmd(pattern=r"send (?P<shortname>\w+)", outgoing=True))
