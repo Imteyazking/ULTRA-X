@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team KING
 
 # ~ LegendX
 # ~ ProBoyX
@@ -12,7 +12,7 @@
 # Kang with Credits, else gey
 # I knew u will kang and remove credits, duffer!!
 
-# back click kar madharchod 
+# back click kar madharchod  haraami sala kutta bachh tu kisse panga liya hai beta bhut mahnga padega aur sudhar jao
 
 # Last Warn - Undo the removed part else be ready for DMCA by LegendX
 # Mobile me back option he uspe click karde madhachod kang kiya to dekh
@@ -24,7 +24,7 @@ from telethon.tl.functions.contacts import BlockRequest as block
 from telethon import Button, custom, events, functions
 
 # back button click kr madarchod
-from ULTRAX import NAME
+from KING import NAME
 ULTRA_USER = NAME
 
 BOT_MSG = os.environ.get("BOT_MSG", None)
@@ -36,17 +36,17 @@ else:
 WARN = (
   f'''
 **{BOT_MAD}**
-__Hᴇʏ ᴛʜᴇʀᴇ!! I'ᴍ__ **υℓтяα χ** __ᴀɴᴅ I'ᴍ ʜᴇʀᴇ ᴛᴏ Pʀᴏᴛᴇᴄᴛ **{ULTRA_USER}**..\nDᴏɴ'ᴛ Uɴᴅᴇʀ Esᴛɪᴍᴀᴛᴇ ᴍᴇ 😈😈__**
-__Mʏ Mᴀsᴛᴇʀ **{ULTRA_USER}**  ɪs ʙᴜsʏ ʀɪɢʜᴛ ɴᴏᴡ !!__ \n"
+__Hᴇʏ ᴛʜᴇʀᴇ!! I'ᴍ__ **KING_FIGHTER** __ᴀɴᴅ I'ᴍ ʜᴇʀᴇ ᴛᴏ Pʀᴏᴛᴇᴄᴛ **{KING_USER}**..\nDᴏɴ'ᴛ Uɴᴅᴇʀ Esᴛɪᴍᴀᴛᴇ ᴍᴇ 😈😈__**
+__Mʏ Mᴀsᴛᴇʀ **{KING FIGHTER_USER}**  ɪs ʙᴜsʏ ʀɪɢʜᴛ ɴᴏᴡ !!__ \n"
 Mʏ Mᴀsᴛᴇʀ ʜᴀs ᴀssɪɢɴᴇᴅ ᴍᴇ ᴛʜᴇ ᴅᴜᴛʏ ᴛᴏ ᴋᴇᴇᴘ ᴀ ᴄʜᴇᴄᴋ ᴏɴ ʜɪs PM, Aɴᴅ ɪ'ʟʟ ᴅᴏ ɪᴛ ғᴀɪᴛʜғᴜʟʟʏ..Sᴏ ʏᴏᴜ'ʀᴇ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ ᴛᴏ ᴅɪsᴛᴜʀʙ ʜɪᴍ..
 **Iғ ᴜ Sᴘᴀᴍ, ᴏʀ ᴛʀɪᴇᴅ ᴀɴʏᴛʜɪɴɢ ғᴜɴɴʏ, I'ᴠᴇ ғᴜʟʟ ᴘᴇʀᴍɪssɪᴏɴ ᴛᴏ Bʟᴏᴄᴋ + Rᴇᴘᴏʀᴛ ʏᴏᴜ ᴀs Sᴘᴀᴍ ɪɴ Tᴇʟᴇɢʀᴀᴍ's sᴇʀᴠᴇʀ...**
 **Bᴇᴛᴛᴇʀ ʙᴇ ᴄᴀʀᴇғᴜʟ..**
 **Cʜᴏᴏsᴇ ᴀɴʏ Rᴇᴀsᴏɴ & GTFO**
 ''')
 
-ULTRA_BOT_PIC = os.environ.get("PMPERMIT_PIC", None)
-if ULTRA_BOT_PIC is None:
-    ULTRA_PIC = "https://telegra.ph/file/91d427a6873d44ca21c78.jpg"
+KING_BOT_PIC = os.environ.get("PMPERMIT_PIC", None)
+if KING_BOT_PIC is None:
+    KING_PIC = "https://telegra.ph/file/bd545d20b8e7e436f414c.jpg"
 else:
     ULTRA_PIC = ULTRA_BOT_PIC
 
@@ -118,7 +118,7 @@ async def _(event):
 
   
 
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team KING FIGHTER
 
 # ~ LegendX
 # ~ ProBoyX
