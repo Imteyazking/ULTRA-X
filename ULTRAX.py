@@ -1,7 +1,7 @@
-# COPYRIGHT (C) 2021 BY LEGENDX22
+# COPYRIGHT (C) 2021 BY Imteyazking
 """
 """
-# MADE BY LEGENDX22 🔥
+# MADE BY KING FIGHTER 🔥
 # MY IDEA H YRR DONT KANG THIS PLEASE
 import asyncio
 import os
@@ -22,7 +22,7 @@ import time
 MESSAGE = os.environ.get("ALIVE_MSG", None)
 if MESSAGE is None:
    MSG = '''
-🔥🔥 THE ULTRA X IS ONLINE 🔥🔥
+🔥🔥 THE KING FIGHTER  IS ONLINE 🔥🔥
 I AM HERE FOR MY MASTER PROTECTION
 I AM NON HACKEBLE + BEST USERBOT
 THANKS MASTER TO DEPLOY ME
@@ -75,7 +75,7 @@ def wt(obj, file):
     return False
 
 MASTER = NAME
-GROUP = "[SUPPORT GROUP](https://t.me/UltraXChat)"
+GROUP = "[SUPPORT GROUP](https://t.me/King_fighter_Bot_support)"
 if __name__=="__main__":
   bot.start()
   bot.run_until_disconnected()
